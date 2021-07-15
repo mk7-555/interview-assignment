@@ -1,4 +1,4 @@
-# Apple interview - Take home assignment
+# Interview - Take home assignment
 #### Author - Madhu Kesavan
 
 #### Usage
